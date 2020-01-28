@@ -1,0 +1,40 @@
+1
+ 3
+ 234560
+ ford
+ Focus
+ PO345
+ Jason
+
+2
+ 34222
+ 12800
+ ford
+ C-Max
+ DW345
+ Kleofas
+
+3
+ 3422
+ 345600
+ ford
+ Fiesta
+ IKS345
+ Mateusz
+
+4
+ 56
+ 560000
+ Jeep
+ Cherokee
+ PO90045
+ Jacek
+
+5
+ 258
+ 180000
+ Mazda
+ RX-7
+ XX999
+ Weronika
+
